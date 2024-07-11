@@ -1,0 +1,19 @@
+{
+  "projects": {
+    "default": "check-ee399"
+  },
+  "targets": {
+    "check-ee399": {
+      "hosting": {
+        "check2": [
+          "check2-section"
+        ],
+        "check1": [
+          "check1-section"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
